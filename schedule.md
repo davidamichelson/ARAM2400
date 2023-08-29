@@ -2,7 +2,13 @@
 
 ### Notes:
 
-- This schedule will be updated regularly during the course of the semester. For each date, please read the chapter and complete any assignments listed following it. Please complete these assignments before coming to class on that date. Quizzes may be given unannounced and thus may not be listed below.
+- This schedule will be updated regularly during the course of the semester. For each date, please complete the reading and any homework assignments listed. Please complete this work before coming to class on that date. Quizzes may be given unannounced and thus may not be listed below.
+
+### Textbooks:
+Coakley, J.F. Robinson’s Paradigms and Exercises in Syriac Grammar. 6th edition. Oxford: Oxford University Press, 2013. ISBN: 978-0-19-968717-6. Please acquire this specific edition. See [https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=en](https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=en)
+
+Kiraz, George Anton. The New Syriac Primer: An Introduction to The Syriac Language. Second printing with corrections. Piscataway N.J.: Gorgias Press, 2013. ISBN: 9781463210298 DOI See [https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=e](https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=en)n
+
 
 ## Week 1: The Syriac Alphabet
 
@@ -16,6 +22,28 @@ Lecture: Serto Alphabet
 
 Lecture: Serto Vowels and Pointing
 
+Homework: 
+
+* Begin learning the Serto alphabet (West Syrian script).
+
+Optional:
+
+If you feel a need to practice further or need further clarification, please consult:
+
+* Kiraz, *New Syriac Primer*, pages 1-52.
+* Francois, [“Practice Sheet 1.8. – Syriac Alphabet Tracing Sheet (West Syriac/Serto)"](https://markfrancois.files.wordpress.com/2018/12/Practice-Sheet-1.8-Alphabet-Practice-Sheet-West-Syriac-1.pdf)
+
+Video tutorials for writing Serto script:
+
+* [https://www.youtube.com/watch?v=WZ-MIBU76Bk](https://www.youtube.com/watch?v=WZ-MIBU76Bk)
+* [https://www.youtube.com/watch?v=VU_fhAGP6xM](https://www.youtube.com/watch?v=VU_fhAGP6xM)
+* [https://www.youtube.com/watch?v=YM_rbvsG8Jk](https://www.youtube.com/watch?v=YM_rbvsG8Jk)
+
+Children's alphabet songs for Serto script (in Neo-Aramaic):
+
+* [https://www.youtube.com/watch?v=EN_chiMl3Gg](https://www.youtube.com/watch?v=EN_chiMl3Gg)
+* [https://www.youtube.com/watch?v=1qqxefuHQUo](https://www.youtube.com/watch?v=1qqxefuHQUo)
+
 ### Thursday, Septemeber 1: Pronouns, Particles, and Sentences
 
 Reading: Coakley, *Syriac Grammar*, chapters 1-4 (pages 1-19).
@@ -28,7 +56,10 @@ Homework:
 * Complete chapter 3, exercises (p. 14-15).
 * Begin learning chapter 4, vocabulary (p.19).
 
-Optional: If you feel a need to practice further or need further clarification, please consult Kiraz, *New Syriac Primer*, pages 1-52.
+Optional: If you feel a need to practice further or need further clarification, please consult:
+
+* Kiraz, *New Syriac Primer*, pages 1-52
+* Francois, ["Vowel Names in West Syriac and East Syriac"](https://markfrancois.wordpress.com/2022/04/20/vowel-names-in-west-syriac-and-east-syriac/)
 
 ## Week 3: Nouns, Adjectives, Pronomial Suffixes
 
