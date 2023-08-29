@@ -8,9 +8,13 @@
 
 ### Thursday, August 24: Syriac Alphabet
 
+Lecture: Serto Alphabet
+
 ## Week 2: The Syriac Alphabet and Pronouns
 
 ### Tuesday, August 29: Syriac Vowels & Pointing
+
+Lecture: Serto Vowels and Pointing
 
 ### Thursday, Septemeber 1: Pronouns, Particles, and Sentences
 
