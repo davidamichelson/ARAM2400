@@ -4,14 +4,6 @@
 
 - This schedule will be updated regularly during the course of the semester. For each date, please read the chapter and complete any assignments listed following it. Please complete these assignments before coming to class on that date. Quizzes may be given unannounced and thus may not be listed below.
 
-## Key to Abbreviations
-
-*(B)*: Item is posted to Brightspace.
-
-*(VLC)*: Item is available through searching the Vanderbilt Libraries Catalogue ([https://catalog.library.vanderbilt.edu](https://catalog.library.vanderbilt.edu)).
-
-*(Link provided)*: For these items, a link is provided directly in this schedule.
-
 ## Week 1: The Syriac Alphabet
 
 ### Thursday, August 24: Syriac Alphabet
