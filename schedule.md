@@ -22,7 +22,7 @@ Lecture: Serto Alphabet
 
 Lecture: Serto Vowels and Pointing
 
-Homework: 
+Homework:
 
 * Begin learning the Serto alphabet (West Syrian script).
 
@@ -50,7 +50,7 @@ Reading: Coakley, *Syriac Grammar*, chapters 1-4 (pages 1-19).
 
 Lecture: Pronouns, Particles, and Sentences
 
-Homework: 
+Homework:
 
 * Complete learning the Serto alphabet (West Syrian script) and its vowels.
 * Complete chapter 3, exercises (p. 14-15).
@@ -67,29 +67,42 @@ Optional: If you feel a need to practice further or need further clarification, 
 
 Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
 
-Lecture: Nouns and Adjectives
+Lecture: Review Pronouns, Particles, and Sentences
 
-Homework: 
-
+Homework:
 * Complete learning chapter 4, vocabulary.
 * Complete chapter 4, exercises.
 * Begin learning chapter 5, vocabulary.
 
 ### Thursday, Septemeber 7: Pronouns, Particles, and Sentences
 
+Review: Coakley, *Syriac Grammar*, chapter 4 (pages 16-20).
+Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
+
+Lecture: Nouns and Adjectives
+
+Homework:
+
+* Prepare for brief quiz on chapter 4, vocabulary.
+* Redo chapter 4, exercises.
+* Finish learning chapter 5, vocabulary.
+
+## Week 4: TBD
+
+### Tuesday, September 12:
 Reading: Coakley, *Syriac Grammar*, chapters 6 (pages 26-29).
 
 Lecture: Nouns and Adjectives
 
-Homework: 
+Homework:
 
 * Complete learning chapter 5, vocabulary.
 * Complete chapter 5, exercises.
 * Begin learning chapter 6, vocabulary.
 
-## Week 4: TBD
 
-### Tuesday, September 12: TBD
+### Thursday, September 14: TBD
+
 
 ## Exam 1: September 26, 2023
 
