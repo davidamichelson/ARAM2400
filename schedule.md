@@ -90,16 +90,19 @@ Homework:
 ## Week 4: TBD
 
 ### Tuesday, September 12:
-Reading: Coakley, *Syriac Grammar*, chapters 6 (pages 26-29).
+Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
 
 Lecture: Nouns and Adjectives
 
 Homework:
 
 * Complete learning chapter 5, vocabulary.
-* Complete chapter 5, exercises.
-* Begin learning chapter 6, vocabulary.
-
+* Memorize the six inflectional endings for the three states (absolute, emphatic, construct) as found on page 22 of Coakley.
+* Write out from memory the inflection of the following words:
+	* king
+	* queen
+	* just (write both the masculine and feminine forms)
+	* old (write both the masculine and feminine forms)
 
 ### Thursday, September 14: TBD
 
