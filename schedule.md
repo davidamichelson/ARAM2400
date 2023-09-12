@@ -116,7 +116,8 @@ Homework:
 * Begin learning chapter 6, vocabulary (including the suffixes)
 * Complete chapter 5, exercises: Syriac into English.
 * Install Syriac fonts and keyboards as well as a unicode compliant application on your laptop and bring it to class for troubleshooting:
-	*  Mac: [https://bethmardutho.org/syriacmac/](https://bethmardutho.org/resources/syriacpc/)
+	*  Download the Zip file of Meltho Fonts, then select Serto Jerusalem to install. Also open and save a copy of the Meltho Guide, that will give you a map of what the keys map to.
+	*  Mac: [https://bethmardutho.org/resources/syriacmac/](https://bethmardutho.org/resources/syriacmac/)
 	*  PC: [https://bethmardutho.org/resources/syriacpc/](https://bethmardutho.org/resources/syriacpc/)
 	*  Test page and extra notes for Mac: [https://syriaca.org/documentation/view-syriac.html](https://bethmardutho.org/resources/syriacpc/)
 	*  Unicode compliant spreadsheet program: [https://www.libreoffice.org/](https://www.libreoffice.org/)
