@@ -104,7 +104,7 @@ Homework:
 	* just (write both the masculine and feminine forms)
 	* old (write both the masculine and feminine forms)
 
-### Thursday, September 14: TBD
+### Thursday, September 14
 
 Reading: Coakley, *Syriac Grammar*, chapter 6 (pages 26-29).
 
