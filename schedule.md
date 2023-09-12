@@ -10,13 +10,13 @@ Coakley, J.F. Robinson’s Paradigms and Exercises in Syriac Grammar. 6th editio
 Kiraz, George Anton. The New Syriac Primer: An Introduction to The Syriac Language. Second printing with corrections. Piscataway N.J.: Gorgias Press, 2013. ISBN: 9781463210298 DOI See [https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=e](https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=en)n
 
 
-## Week 1: The Syriac Alphabet
+## Week 1
 
 ### Thursday, August 24: Syriac Alphabet
 
 Lecture: Serto Alphabet
 
-## Week 2: The Syriac Alphabet and Pronouns
+## Week 2
 
 ### Tuesday, August 29: Syriac Vowels & Pointing
 
@@ -61,11 +61,11 @@ Optional: If you feel a need to practice further or need further clarification, 
 * Kiraz, *New Syriac Primer*, pages 1-52
 * Francois, ["Vowel Names in West Syriac and East Syriac"](https://markfrancois.wordpress.com/2022/04/20/vowel-names-in-west-syriac-and-east-syriac/)
 
-## Week 3: Nouns, Adjectives, Pronomial Suffixes
+## Week 3
 
 ### Tuesday, September 5: Nouns and Adjectives
 
-Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
+Reading: Coakley, *Syriac Grammar*, chapter 5 (pages 21-25).
 
 Lecture: Review Pronouns, Particles, and Sentences
 
@@ -77,7 +77,7 @@ Homework:
 ### Thursday, Septemeber 7: Pronouns, Particles, and Sentences
 
 Review: Coakley, *Syriac Grammar*, chapter 4 (pages 16-20).
-Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
+Reading: Coakley, *Syriac Grammar*, chapter 5 (pages 21-25).
 
 Lecture: Nouns and Adjectives
 
@@ -87,10 +87,10 @@ Homework:
 * Redo chapter 4, exercises.
 * Finish learning chapter 5, vocabulary.
 
-## Week 4: TBD
+## Week 4
 
 ### Tuesday, September 12:
-Reading: Coakley, *Syriac Grammar*, chapters 5 (pages 21-25).
+Reading: Coakley, *Syriac Grammar*, chapter 5 (pages 21-25).
 
 Lecture: Nouns and Adjectives
 
@@ -106,6 +106,20 @@ Homework:
 
 ### Thursday, September 14: TBD
 
+Reading: Coakley, *Syriac Grammar*, chapter 6 (pages 26-29).
+
+Lecture: Pronomial Suffixes
+
+Homework:
+
+* Prepare for brief quiz on states, be able to parse state, gender, number.
+* Begin learning chapter 6, vocabulary (including the suffixes)
+* Complete chapter 5, exercises: Syriac into English.
+* Install Syriac fonts and keyboards as well as a unicode compliant application on your laptop and bring it to class for troubleshooting:
+	*  Mac: [https://bethmardutho.org/syriacmac/](https://bethmardutho.org/resources/syriacpc/)
+	*  PC: [https://bethmardutho.org/resources/syriacpc/](https://bethmardutho.org/resources/syriacpc/)
+	*  Test page and extra notes for Mac: [https://syriaca.org/documentation/view-syriac.html](https://bethmardutho.org/resources/syriacpc/)
+	*  Unicode compliant spreadsheet program: [https://www.libreoffice.org/](https://www.libreoffice.org/)
 
 ## Exam 1: September 26, 2023
 
