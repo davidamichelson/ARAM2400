@@ -122,6 +122,17 @@ Homework:
 	*  Test page and extra notes for Mac: [https://syriaca.org/documentation/view-syriac.html](https://bethmardutho.org/resources/syriacpc/)
 	*  Unicode compliant spreadsheet program: [https://www.libreoffice.org/](https://www.libreoffice.org/)
 
+### Tuesday, September 18
+Reading: Coakley, *Syriac Grammar*, chapter 6 (pages 26-29).
+
+Lecture: Pronomial Suffixes
+
+Homework:
+* Finish learning chapter 6, vocabulary (including the suffixes)
+* Complete chapter 5, exercises: English into Syriac.
+* Complete chapter 6, exercises: Syriac into English.
+* Complete chapter 6, exercises: English into Syriac.
+
 ## Exam 1: September 26, 2023
 
 ## Exam 2: October 31, 2-23
