@@ -133,6 +133,22 @@ Homework:
 * Complete chapter 6, exercises: Syriac into English.
 * Complete chapter 6, exercises: English into Syriac.
 
+### Thursday, September 20
+Review: Coakley, *Syriac Grammar*, chapter 6 (pages 26-29).
+
+Homework:
+* Prepare for 10 word vocabulary quiz on all vocab through chapter 6.
+* Finish learning chapter 6, vocabulary (including the suffixes)
+* Complete chapter 6, exercises: Syriac into English.
+* Complete chapter 6, exercises: English into Syriac.
+
+### Tuesday, September 24
+Read: Coakley, *Syriac Grammar*, chapter 7 (pages 30-33).
+
+Homework:
+* Finish learning chapter 7, vocabulary (including the prepositions)
+* Complete chapter 7, exercises: Syriac into English.
+
 ## Exam 1: September 26, 2023
 
 ## Exam 2: October 31, 2-23
