@@ -133,7 +133,7 @@ Homework:
 * Complete chapter 6, exercises: Syriac into English.
 * Complete chapter 6, exercises: English into Syriac.
 
-### Thursday, September 20
+### Thursday, September 21
 Review: Coakley, *Syriac Grammar*, chapter 6 (pages 26-29).
 
 Homework:
@@ -142,12 +142,9 @@ Homework:
 * Complete chapter 6, exercises: Syriac into English.
 * Complete chapter 6, exercises: English into Syriac.
 
-### Tuesday, September 24
-Read: Coakley, *Syriac Grammar*, chapter 7 (pages 30-33).
+### Tuesday, September 26
 
-Homework:
-* Finish learning chapter 7, vocabulary (including the prepositions)
-* Complete chapter 7, exercises: Syriac into English.
+Midterm exam. The exam will cover Chapters 1-6. Students should be prepared to translate Syriac vocabulary into English, translate Syriac sentences into English, and parse Syriac nouns and adjectives according to state, gender, and number.
 
 ## Exam 1: September 26, 2023
 
