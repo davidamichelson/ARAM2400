@@ -156,7 +156,12 @@ Exam I. The exam will cover Chapters 1-6. Students should be prepared to transla
 4 Syriac sentences to translate:* Each sentences = 20 points* Each mistake = -2 points* Section = 80 points
 Time = 55 minutes (please let me know if you have a time accomodation)
 
-## Exam 1: September 26, 2023
+### Thursday, October 5
+Read: Coakley, *Syriac Grammar*, chapter 7 (pages 30-33).
+
+Homework:
+* Learn chapter 7, vocabulary (including the prepositions and phrases)
+* Complete chapter 7, exercises: Syriac into English.
 
 ## Exam 2: October 31, 2-23
 
