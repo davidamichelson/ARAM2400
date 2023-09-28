@@ -156,12 +156,21 @@ Exam I. The exam will cover Chapters 1-6. Students should be prepared to transla
 4 Syriac sentences to translate:* Each sentences = 20 points* Each mistake = -2 points* Section = 80 points
 Time = 55 minutes (please let me know if you have a time accomodation)
 
-### Thursday, October 5
+### Thursday, September 28
 Read: Coakley, *Syriac Grammar*, chapter 7 (pages 30-33).
 
 Homework:
 * Learn chapter 7, vocabulary (including the prepositions and phrases)
 * Complete chapter 7, exercises: Syriac into English.
+
+### Tuesday, October 3
+Read: Coakley, *Syriac Grammar*, chapter 8 (pages 34-39).
+
+Homework:
+* Learn chapter 8, vocabulary (including the verb endings)
+* Complete chapter 7, exercises: English into Syriac
+* Memorize Peʿal Perfect verb endings
+* Prepare for parsing quiz on Peʿal Perfect verb endings
 
 ## Exam 2: October 31, 2-23
 
