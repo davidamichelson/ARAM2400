@@ -10,13 +10,10 @@ Coakley, J.F. Robinson’s Paradigms and Exercises in Syriac Grammar. 6th editio
 Kiraz, George Anton. The New Syriac Primer: An Introduction to The Syriac Language. Second printing with corrections. Piscataway N.J.: Gorgias Press, 2013. ISBN: 9781463210298 DOI See [https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=e](https://catalog.library.vanderbilt.edu/discovery/search?vid=01VAN_INST:vanui&lang=en)n
 
 
-## Week 1
 
 ### Thursday, August 24: Syriac Alphabet
 
 Lecture: Serto Alphabet
-
-## Week 2
 
 ### Tuesday, August 29: Syriac Vowels & Pointing
 
@@ -61,7 +58,6 @@ Optional: If you feel a need to practice further or need further clarification, 
 * Kiraz, *New Syriac Primer*, pages 1-52
 * Francois, ["Vowel Names in West Syriac and East Syriac"](https://markfrancois.wordpress.com/2022/04/20/vowel-names-in-west-syriac-and-east-syriac/)
 
-## Week 3
 
 ### Tuesday, September 5: Nouns and Adjectives
 
@@ -86,8 +82,6 @@ Homework:
 * Prepare for brief quiz on chapter 4, vocabulary.
 * Redo chapter 4, exercises.
 * Finish learning chapter 5, vocabulary.
-
-## Week 4
 
 ### Tuesday, September 12:
 Reading: Coakley, *Syriac Grammar*, chapter 5 (pages 21-25).
@@ -171,6 +165,14 @@ Homework:
 * Complete chapter 7, exercises: English into Syriac
 * Memorize Peʿal Perfect verb endings
 * Prepare for parsing quiz on Peʿal Perfect verb endings
+
+### Thursday, October 5
+Read: Coakley, *Syriac Grammar*, chapter 9 (pages 40-44).
+
+Homework:
+* Learn chapter 9, vocabulary
+* Complete chapter 8, exercises: Syriac into English
+* Memorize Peʿal Perfect verb endings
 
 ## Exam 2: October 31, 2-23
 
