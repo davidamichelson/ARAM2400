@@ -174,6 +174,28 @@ Homework:
 * Complete chapter 8, exercises: Syriac into English
 * Memorize Peʿal Perfect verb endings
 
+### Tuesday, October 10
+Read: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
+
+Homework:
+* Learn chapter 10, vocabulary
+* Complete chapter 9, exercises: Syriac into English
+* Prepare for quiz parsing and translating Peʿal Perfect verbs
+
+### Thursday, October 12
+Review: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
+
+Homework:
+* Review chapter 10, vocabulary
+* Complete chapter 9, exercises: English into Syriac
+
+### Tuesday, October 17
+Review: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
+
+Homework:
+* Prepare for quiz on vocabulary through chapter 10.
+* Complete chapter 10, exercises: Syriac into English.
+
 ## Exam 2: October 31, 2-23
 
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
