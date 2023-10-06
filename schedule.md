@@ -178,7 +178,6 @@ Homework:
 Read: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
 
 Homework:
-* Learn chapter 10, vocabulary
 * Complete chapter 9, exercises: Syriac into English
 * Prepare for quiz parsing and translating Peʿal Perfect verbs
 
@@ -186,7 +185,7 @@ Homework:
 Review: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
 
 Homework:
-* Review chapter 10, vocabulary
+* Learn chapter 10, vocabulary
 * Complete chapter 9, exercises: English into Syriac
 
 ### Tuesday, October 17
