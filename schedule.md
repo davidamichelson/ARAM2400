@@ -193,7 +193,7 @@ Review: Coakley, *Syriac Grammar*, chapter 10 (pages 45-49).
 Read: Appendix B: The Estrangela Script. Diacritic Points (pages 142-144).
 
 Homework:
-* Prepare for quiz on all vocabulary through chapter 10.
+* Prepare for quiz on all vocabulary through chapter 10, including parsing verbs.
 * Complete chapter 10, exercises: Syriac into English.
 
 ## Exam 2: October 31, 2-23
