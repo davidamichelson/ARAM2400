@@ -204,6 +204,13 @@ Homework:
 * Prepare for quiz on the Estrangelo script. Be prepared to rewrite words by hand between both Serto and Estrangelo.
 * Learn chapter 11 vocabulary.
 
+### Thursday, October 26
+Read: Coakley, *Syriac Grammar*, chapter 11 (pages 50-53).
+
+Homework:
+* Complete chapter 11, exercises: Syriac into English
+* Prepare for 5 item quiz on all vocabulary through chapter 11, including parsing verbs and participles.
+
 ## Exam 2: October 31, 2-23
 
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
