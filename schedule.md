@@ -216,6 +216,4 @@ Homework:
 Exam II will be held in class from 2:45-4:00. Please be prepared to translate sentences from Syriac into English and to parse and translate Syriac verbs, participles, nouns, and adjectives. The exam will cover all material between chapters 1 to 11.
 
 
-
-
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
