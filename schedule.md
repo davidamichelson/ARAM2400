@@ -205,7 +205,7 @@ Homework:
 * Learn chapter 11 vocabulary.
 
 ### Thursday, October 26
-Read: Coakley, *Syriac Grammar*, chapter 11 (pages 50-53).
+Read: Coakley, *Syriac Grammar*, chapter 11 (pages 50-54).
 
 Homework:
 * Complete chapter 11, exercises: Syriac into English
@@ -215,5 +215,10 @@ Homework:
 
 Exam II will be held in class from 2:45-4:00. Please be prepared to translate sentences from Syriac into English and to parse and translate Syriac verbs, participles, nouns, and adjectives. The exam will cover all material between chapters 1 to 11.
 
+### Thursday, November 2
+Read: Coakley, *Syriac Grammar*, chapter 12 (pages 55-59).
+
+Homework:
+* Learn all of Chapter 12 vocabulary, including the irregular vocabulary in the main body of the chapter (not just in the vocabulary list).
 
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
