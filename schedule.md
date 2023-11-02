@@ -205,7 +205,7 @@ Homework:
 * Learn chapter 11 vocabulary.
 
 ### Thursday, October 26
-Read: Coakley, *Syriac Grammar*, chapter 11 (pages 50-53).
+Read: Coakley, *Syriac Grammar*, chapter 11 (pages 50-54).
 
 Homework:
 * Complete chapter 11, exercises: Syriac into English
