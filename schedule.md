@@ -227,6 +227,7 @@ Read: Coakley, *Syriac Grammar*, chapter 13 (pages 60-64).
 Homework:
 * Learn all vocabulary in chapter 12 including those irregular forms and new words in the chapter which are not in the vocabulary list.
 * Learn the peʿal imperfect tense conjugation as found on pages 60-61.
+* Learn all vocabulary in chapter 13.
 * Complete chapter 12, exercises: Syriac into English
 
 
