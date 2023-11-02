@@ -215,5 +215,19 @@ Homework:
 
 Exam II will be held in class from 2:45-4:00. Please be prepared to translate sentences from Syriac into English and to parse and translate Syriac verbs, participles, nouns, and adjectives. The exam will cover all material between chapters 1 to 11.
 
+### Thursday, November 2
+Read: Coakley, *Syriac Grammar*, chapter 12 (pages 54-58).
+
+Homework:
+* Learn all vocabulary in chapter 12 including those irregular forms and new words in the chapter which are not in the vocabulary list.
+
+### Tuesday, November 7
+Read: Coakley, *Syriac Grammar*, chapter 13 (pages 60-64).
+
+Homework:
+* Learn all vocabulary in chapter 12 including those irregular forms and new words in the chapter which are not in the vocabulary list.
+* Learn the peʿal imperfect tense conjugation as found on pages 60-61.
+* Complete chapter 12, exercises: Syriac into English
+
 
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
