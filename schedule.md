@@ -230,5 +230,14 @@ Homework:
 * Learn all vocabulary in chapter 13.
 * Complete chapter 12, exercises: Syriac into English
 
+### Thursday, November 9
+Read: Coakley, *Syriac Grammar*, chapter 14 (pages 65-68).
+
+Homework:
+* Learn all vocabulary in chapter 13 including the peʿal imperfect tense conjugation as found on pages 60-61.
+* Learn all vocabulary in chapter 14 incluing the verb ܗܘܐ.
+* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܬܠ in the peʿal perfect, active and passive participle (abs, m, sg), and the imperfect.
+* Complete chapter 13, exercises: Syriac into English.
+
 
 ## Final Exam: December 11, 2023 (3:00-5:00 PM)
