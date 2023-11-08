@@ -143,12 +143,18 @@ Exam I. The exam will cover Chapters 1-6. Students should be prepared to transla
 *Format:*
 
 10 Syriac words to translate and parse (state, gender, number):
-* Each word = 2 points
+
+* Each word = 2 points
 * Each mistake = -.5 points
 * Section = 20 points
 
-4 Syriac sentences to translate:* Each sentences = 20 points* Each mistake = -2 points* Section = 80 points
-Time = 55 minutes (please let me know if you have a time accomodation)
+4 Syriac sentences to translate:
+
+* Each sentences = 20 points
+* Each mistake = -2 points
+* Section = 80 points
+
+Time = 55 minutes (please let me know if you have a time accomodation)
 
 ### Thursday, September 28
 Read: Coakley, *Syriac Grammar*, chapter 7 (pages 30-33).
@@ -236,7 +242,7 @@ Read: Coakley, *Syriac Grammar*, chapter 14 (pages 65-68).
 Homework:
 * Learn all vocabulary in chapter 13 including the peʿal imperfect tense conjugation as found on pages 60-61.
 * Learn all vocabulary in chapter 14 incluing the verb ܗܘܐ.
-* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܬܠ in the peʿal perfect, active and passive participle (abs, m, sg), and the imperfect.
+* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the peʿal perfect, active and passive participle (abs, m, sg), and the imperfect.
 * Complete chapter 13, exercises: Syriac into English.
 
 
