@@ -260,30 +260,30 @@ Homework:
 * Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the peʿal: perfect, imperfect, imperative (m&f, s&pl) active and passive participle (abs, m&f, singular), and the infinitive.
 * Complete chapter 14, exercises: Syriac into English.
 
-### Tuesday, November 27
+### Tuesday, November 28
 Read: Coakley, *Syriac Grammar*, chapter 16 (pages 73-78).
 
 * Learn all vocabulary in chapter 16 including incluing paʿel and ethpaʿal in all tenses/forms.
-* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the ethpeʿel: perfect, imperfect, imperative (m&f, s&pl) active and passive participle (abs, m&f, singular), and the infinitive.
+* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the ethpeʿel: perfect, imperfect, imperative (m&f, s&pl) active participle (abs, m&f, singular, *NB*: there is no passive!), and the infinitive.
 * Complete chapter 15, exercises: Syriac into English.
 
-### Thursday, November 29
+### Thursday, November 30
 Read: Coakley, *Syriac Grammar*, chapter 17 (pages 79-83).
 
 * Learn all vocabulary in chapter 17 including incluing aphʿel and ettaphʿal in all tenses/forms.
 * Complete chapter 16, exercises: Syriac into English.
 
-### Tuesday, December 4
+### Tuesday, December 5
 Read: Coakley, *Syriac Grammar*, chapter 18 (pages 84-87).
 
 * Learn all vocabulary in chapter 18 including incluing objective pronominal suffixes.
 * Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the aphʿel: perfect, imperfect, imperative (m&f, s&pl) active and passive participle (abs, m&f, singular), and the infinitive.
 * Complete chapter 17, exercises: Syriac into English.
 
-### Thursday, December 6
+### Thursday, December 7
 
 * Review all vocabulary in chapters 1-18.
 * Complete chapter 18, exercises: Syriac into English.
 
 
-## Final Exam: December 11, 2023 (3:00-5:00 PM)
+## Final Exam: Monday, December 11, 2023 (3:00-5:00 PM)
