@@ -277,7 +277,7 @@ Read: Coakley, *Syriac Grammar*, chapter 17 (pages 79-83).
 Read: Coakley, *Syriac Grammar*, chapter 18 (pages 84-87).
 
 * Learn all vocabulary in chapter 18 including incluing objective pronominal suffixes.
-* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the aphʿel: perfect, imperfect, imperative (m&f, s&pl) active and passive participle (abs, m&f, singular), and the infinitive.
+* Prepare for a quiz which will ask you to write from memory the verb paradigm for ܩܛܠ in the paʿel, ethpaʿal, or aphʿel: perfect, imperfect, imperative (m&f, s&pl) active and passive participle (abs, m&f, singular), and the infinitive.
 * Complete chapter 17, exercises: Syriac into English.
 
 ### Thursday, December 7
