@@ -286,6 +286,6 @@ Read: Coakley, *Syriac Grammar*, chapter 18 (pages 84-87).
 * No assignment, bring any review questions to class.
 
 
-## Final Exam: Monday, December 11, 2023 (3:00-5:00 PM)
+## Final Exam: Monday, December 11, 2023 (3:00-5:00 PM) Location TBD.
 
 Final Exam Review GuideYour final exam is worth 500 points or 50% of your final grade. You will have a strict time limit of two hours to complete the exam. The exam will be given in two sessions. For parts one and two, you may not use any resources. Once you turn in parts one and two, you may not return to those sections. You may begin part three after only after you complete parts one and two. For part three, you can use a copy of the textbook and other study materials such as your notes or online dictionaries.The exam will consist of three parts:* Part One: Verb Paradigm (50 points, 25 question, 2 points each, no partial credit)You will be asked to provide the conjugation of ܩܛܠ in the peʿal from memory.* Part Two: Parsing (50 points, 10 question, 5 points each, no partial credit)You will be given 10 words (verbs, nouns, adjectives) and asked to parse them.* Part Three: Translation Syriac to English (400 points, 8 sentences, 50 points each, partial credit)You will be given 8 sentences and asked to given an English translation. Partial credit will be given in increments of -10 points.
